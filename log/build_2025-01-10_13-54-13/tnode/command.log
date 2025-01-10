@@ -1,2 +1,0 @@
-Invoking command in '/home/cod/qza_ws/CItest/build/tnode': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/cod/qza_ws/CItest/build/tnode -- -j16 -l16
-Invoked command in '/home/cod/qza_ws/CItest/build/tnode' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/cod/qza_ws/CItest/build/tnode -- -j16 -l16
