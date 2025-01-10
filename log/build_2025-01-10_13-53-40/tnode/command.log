@@ -1,0 +1,4 @@
+Invoking command in '/home/cod/qza_ws/CItest/build/tnode': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake /home/cod/qza_ws/CItest/tnode -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/cod/qza_ws/CItest/install/tnode
+Invoked command in '/home/cod/qza_ws/CItest/build/tnode' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake /home/cod/qza_ws/CItest/tnode -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/cod/qza_ws/CItest/install/tnode
+Invoking command in '/home/cod/qza_ws/CItest/build/tnode': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/cod/qza_ws/CItest/build/tnode -- -j16 -l16
+Invoked command in '/home/cod/qza_ws/CItest/build/tnode' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/cod/qza_ws/CItest/build/tnode -- -j16 -l16

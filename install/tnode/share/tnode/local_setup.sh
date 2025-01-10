@@ -1,0 +1,1 @@
+/home/cod/qza_ws/CItest/build/tnode/ament_cmake_environment_hooks/local_setup.sh

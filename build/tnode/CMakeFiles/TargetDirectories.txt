@@ -1,0 +1,10 @@
+/home/cod/qza_ws/CItest/build/tnode/CMakeFiles/uninstall.dir
+/home/cod/qza_ws/CItest/build/tnode/CMakeFiles/tnode_uninstall.dir
+/home/cod/qza_ws/CItest/build/tnode/CMakeFiles/tnode.dir
+/home/cod/qza_ws/CItest/build/tnode/CMakeFiles/test.dir
+/home/cod/qza_ws/CItest/build/tnode/CMakeFiles/edit_cache.dir
+/home/cod/qza_ws/CItest/build/tnode/CMakeFiles/rebuild_cache.dir
+/home/cod/qza_ws/CItest/build/tnode/CMakeFiles/list_install_components.dir
+/home/cod/qza_ws/CItest/build/tnode/CMakeFiles/install.dir
+/home/cod/qza_ws/CItest/build/tnode/CMakeFiles/install/local.dir
+/home/cod/qza_ws/CItest/build/tnode/CMakeFiles/install/strip.dir

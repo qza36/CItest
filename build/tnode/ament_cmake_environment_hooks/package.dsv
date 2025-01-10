@@ -1,0 +1,4 @@
+source;share/tnode/local_setup.bash
+source;share/tnode/local_setup.dsv
+source;share/tnode/local_setup.sh
+source;share/tnode/local_setup.zsh
