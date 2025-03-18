@@ -16,4 +16,3 @@ jobs:
         with:
           package-name: tnode
           target-ros2-distro: humble
-          vcs-repo-file-url: https://raw.githubusercontent.com/ros2/ros2/humble/ros2.repos
