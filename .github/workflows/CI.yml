@@ -1,17 +1,18 @@
 name: Build
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
-  Build:
+  build:
     runs-on: ubuntu-latest
     container:
       image: rostooling/setup-ros-docker:ubuntu-jammy-ros-humble-desktop-latest
     steps:
-      - name: ROS 2 CI Action
-        uses: ros-tooling/action-ros-ci@0.4.1
+      - name: Build small_gicp_relocalization
+        uses: ros-tooling/action-ros-ci@v0.3
         with:
+          package-name: tnode
           target-ros2-distro: humble
